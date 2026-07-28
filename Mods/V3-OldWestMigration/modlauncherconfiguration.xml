@@ -1,0 +1,33 @@
+<Servers>
+  <ServerGroup Name="Old West Migration">
+    <Server Name="Old West Migration" Logo="https://i.imgur.com/kDWn2I7.jpg">
+      <Description>Old West Town Expansion.
+	  
+Features Include:
+- Updated to current version
+- Increases the size of the Old West Town by allowing more township tiles
+- Increases the amount of Old West Town settlements that can appear in the World
+- Adds the chance of a road and Trader leading into an Old West Town
+- Adds a multitude of custom Old West POIs for all Tiers and Quest Types
+- Converts remnant and decorative default Old West POIs to Quest POIs
+- Adds custom Old West Tiles
+- Adds roaming zombies to the Old West Town streets, just like in the Towns and Cities
+- Allows the Old West Town to appear in the Desert, Forest, Burnt Forest, Snow, and Wasteland Biomes
+- Adds Old West Trader Bob to the Desert Biome Old West Town
+- Adds POIs made during play through Streams and for specific Streamers
+- Used in Preppocalypse and The Wild West Mod
+  
+Brought to you by arramus.
+
+	  </Description>
+        <Version>Latest</Version>
+		<RSS/>
+        <Excludes></Excludes>
+        <ReleaseNotes></ReleaseNotes>
+        <Discord>https://discord.gg/PFMY8rqQVs</Discord>
+        <Donate></Donate>
+        <DownloadMode>Clone</DownloadMode>
+      <Downloads><Download>https://github.com/arramus/V3-OldWestMigration</Download></Downloads>
+    </Server>
+  </ServerGroup>
+</Servers>

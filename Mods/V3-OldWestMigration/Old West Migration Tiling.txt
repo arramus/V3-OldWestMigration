@@ -1,0 +1,299 @@
+=============================
+= V3 OLD WEST MIGRATION MOD =
+=============================
+
+CONTENTS:
+
+----
+POIS
+----
+1) This list should be accurate and includes the following information about POIs:
+
+- DEFAULT TFP POIS (+ CUSTOM CONVERSIONS)
+- CUSTOM OLD WEST MIGRATION POIS
+
+It is further categorised by Quest Level and Type as follows:
+
+QUEST POIs - Quest Tier 1-6
+- Clear + Fetch (C+F)
+- Clear + Infested (C+I)
+- Clear + Fetch + Infested (C+F+I)
+- Clear + Fetch + Restore Power (C+F+RP)
+- Clear + Fetch + Restore Power + Infested (C+F+RP+I)
+
+(Quest Tier 6 is suggested since a Quest Tier 5 with Infected option mode is considered Quest Tier 6)
+
+------
+TILING
+------
+2) This list should be accurate and includes the following information about Tiling:
+- DEFAULT TFP TILING (+ CUSTOM CONVERSIONS)
+- CUSTOM OLD WEST MIGRATION TILING
+
+----------------------------------------------------------------------
+
+----
+POIS
+----
+
+===================================
+= DECORATIVE POIs - Quest Tier 0 =
+===================================
+DEFAULT TFP POIS = 10
+oldwest_business_05 (Tiling Deco)
+oldwest_gallows (Tiling Deco)
+oldwest_watertower (Tiling Deco)
+remnant_oldwest_01 (Tiling Deco)
+remnant_oldwest_02 (Tiling Deco)
+remnant_oldwest_03 (Tiling Deco)
+remnant_oldwest_05 (Tiling Deco)
+remnant_oldwest_06 (Tiling Deco)
+remnant_oldwest_08 (Tiling Deco)
+trader_oldwest_bob - CONVERSION from A20 - Only appears in Desert biome in town system for V1
+
+OVERALL TOTAL = 10
+
+==============================
+= QUEST TIER 1 CLEAR + FETCH =
+==============================
+DEFAULT TFP POIS Clear + Fetch (C+F) = 4
+oldwest_business_07 (Deco) - CONVERSION - (T1 C+F)
+oldwest_business_09 (Deco) - CONVERSION - (T1 C+F)
+remnant_oldwest_07 (Deco) - CONVERSION - (T1 C+F)
+remnant_oldwest_09 (Deco) - CONVERSION - (T1 C+F)
+
+OVERALL TOTAL = 4
+
+=================================
+= QUEST TIER 1 CLEAR + INFESTED =
+=================================
+DEFAULT TFP POIS Clear + Infested (C+I) = 5
+oldwest_business_02 (T1 C+I)
+oldwest_business_03 (T1 C+I)
+oldwest_business_04 (T1 C+I)
+oldwest_business_06 (T1 C+I)
+oldwest_business_12 (T1 C+I)
+
+OVERALL TOTAL = 5
+
+=========================================
+= QUEST TIER 1 CLEAR + FETCH + INFESTED =
+=========================================
+DEFAULT TFP POIS Clear + Fetch + Infested (C+F+I) = 29
+oldwest_business_01 (T1 C+F+I)
+oldwest_business_08 (T1 C+F+I)
+oldwest_business_10 (T1 C+F+I)
+oldwest_business_11 (T1 C+F+I)
+oldwest_business_13 (T1 C+F+I)
+oldwest_business_14 (T1 C+F+I)
+oldwest_church (T1 C+F+I)
+oldwest_coal_factory (T1 C+F+I)
+oldwest_diner_02 - CONVERSION - (T1 C+F+I)
+oldwest_gas_station_07 - CONVERSION - (T1 C+F+I)
+oldwest_gas_station_07 - CONVERSION - (T1 C+F+I)
+oldwest_jail (Deco) - CONVERSION - (T1 C+F+I)
+oldwest_ranger_station_02 - CONVERSION - (T1 C+F+I)
+oldwest_stables (Deco) - CONVERSION - (T1 C+F+I)
+oldwest_store_book_04 - CONVERSION - (T1 C+F+I)
+oldwest_store_grocery_04 - CONVERSION - (T1 C+F+I)
+oldwest_strip_03 (T1 C+F+I)
+oldwest_strip_04 (T1 C+F+I)
+oldwest_survivor_site_01 - CONVERSION - (T1 C+F+I)
+oldwest_survivor_site_02 - CONVERSION - (T1 C+F+I)
+oldwest_survivor_site_03 - CONVERSION - (T1 C+F+I)
+oldwest_survivor_site_04 - CONVERSION - (T1 C+F+I)
+oldwest_survivor_site_05 - CONVERSION - (T1 C+F+I)
+oldwest_survivor_site_06 - CONVERSION - (T1 C+F+I)
+oldwest_survivor_site_07 - CONVERSION - (T1 C+F+I)
+oldwest_survivor_site_08 - CONVERSION - (T1 C+F+I)
+oldwest_survivor_site_09 - CONVERSION - (T1 C+F+I)
+oldwest_survivor_site_11 - CONVERSION - (T1 C+F+I)
+remnant_oldwest_04 (Deco) - CONVERSION - (T1 C+F+I)
+
+CUSTOM OLD WEST MIGRATION POIS Clear + Fetch + Infested (C+F+I) = 4
+oldwest_abandoned_house_02 (T1 C+F+I)
+oldwest_stables_01 (T1 C+F+I)
+oldwest_station_02 (T1 C+F+I)
+oldwest_stables_03 (T1 C+F+I)
+
+OVERALL TOTAL = 33					  
+
+=========================================
+= QUEST TIER 2 CLEAR + FETCH + INFESTED =
+=========================================
+DEFAULT TFP POIS Clear + Fetch + Infested (C+F+I) = 2
+oldwest_strip_01 (T2 C+F+I)
+oldwest_strip_02 (T2 C+F+I)
+
+OVERALL TOTAL = 2
+
+=========================================================
+= QUEST TIER 2 CLEAR + FETCH + RESTORE POWER + INFESTED =
+=========================================================
+DEFAULT TFP POIS Clear + Fetch + Restore Power + Infested (C+F+RP+I) = 6
+oldwest_cabin_11_TFP - CONVERSION (T2 C+F+RP+I)
+oldwest_remnant_bookshop_business_03 - CONVERSION (T2 C+F+RP+I)
+oldwest_remnant_mill_01 - CONVERSION (T2 C+F+RP+I)
+oldwest_rubble_atomic_burger_filler_13 - CONVERSION (T2 C+F+RP+I)
+oldwest_store_grocery_05 - CONVERSION (T2 C+F+RP+I)
+oldwest_store_grocery_06 - CONVERSION (T2 C+F+RP+I)
+
+CUSTOM OLD WEST MIGRATION POIS Clear + Fetch + Restore Power + Infested (C+F+RP+I) = 19
+oldwest_abandoned_house_01 (T2 C+F+RP+I)
+oldwest_blacksmith_01 (T2 C+F+RP+I)
+oldwest_bricabrac_01 (T2 C+F+RP+I)
+oldwest_bucksden_01 (T2 C+F+RP+I)
+oldwest_craterfield_01 (T2 C+F+RP+I)
+oldwest_dukepower_01 (T2 C+F+RP+I)
+oldwest_ekoguns_01 (T2 C+F+RP+I)
+oldwest_gfv_01 (T2 C+F+RP+I)
+oldwest_gold_01 (T2 C+F+RP+I)
+oldwest_gunshop_01 (T2 C+F+RP+I)
+oldwest_hydroponics_01 (T2 C+F+RP+I)
+oldwest_market_01 (T2 C+F+RP+I) 
+oldwest_meatloaf_01 (T2 C+F+RP+I)
+oldwest_ministrip_01 (T2 C+F+RP+I)
+oldwest_saloon_01 (T2 C+F+RP+I)
+oldwest_specbytes_cems_01 (T2 C+F+RP+I)
+oldwest_stables_02 (T2 C+F+RP+I)
+oldwest_sweeney_01 (T2 C+F+RP+I)						  
+oldwest_tobacco_01 (T2 C+F+RP+I)
+
+OVERALL TOTAL = 25
+
+=========================================================
+= QUEST TIER 3 CLEAR + FETCH + RESTORE POWER + INFESTED =
+=========================================================
+DEFAULT TFP POIS Clear + Fetch + Restore Power + Infested (C+F+RP+I) = 3
+oldwest_country_junkyard_01 - CONVERSION (T3 C+F+RP+I)
+oldwest_junkville_saloon - CONVERSION (T3 C+F+RP+I)
+oldwest_house_modern_11 - CONVERSION (T3 C+F+RP+I)
+
+CUSTOM OLD WEST MIGRATION POIS Clear + Fetch + Restore Power + Infested (C+F+RP+I) = 17
+oldwest_apper_01 (T3 C+F+RP+I)
+oldwest_bank_01 (T3 C+F+RP+I)
+oldwest_bony_xpress_01 (T3 C+F+RP+I)
+oldwest_bubbles_01 (T3 C+F+RP+I)
+oldwest_cran5000soda_01 (T3 C+F+RP+I)
+oldwest_DeasCoffeeBreadTea01 (T3 C+F+RP+I)
+oldwest_dukepatrol_01 (T3 C+F+RP+I)
+oldwest_homesteader_01 (T3 C+F+RP+I)
+oldwest_lyttletrippers_01 (T3 T3 C+F+RP+I)
+oldwest_mine_01 (T3 C+F+RP+I)
+oldwest_mixstrip_01 (T3 C+F+RP+I)
+oldwest_schoolfix_01 (T3 C+F+RP+I)
+oldwest_shotsandgaggles_01 (T3 C+F+RP+I)
+oldwest_station_01 (T3 C+F+RP+I)
+oldwest_the_winchester_tavern_01 (T3 C+F+RP+I)
+oldwest_townclock_saloon_01 (T3 C+F+RP+I)
+oldwest_woodpecker_01 (T3 C+F+RP+I)
+
+OVERALL TOTAL = 20
+
+=========================================================
+= QUEST TIER 4 CLEAR + FETCH + RESTORE POWER + INFESTED =
+=========================================================
+DEFAULT TFP POIS Clear + Fetch + Restore Power + Infested (C+F+RP+I) = 1
+oldwest_downtown_filler_07 - CONVERSION (T4 C+F+RP+I)
+
+CUSTOM OLD WEST MIGRATION POIS Clear + Fetch + Restore Power + Infested (C+F+RP+I) = 8
+oldwest_25x50_corn_01 (T4 C+F+RP+I)
+oldwest_Cran5000SaloonTrio (T4 C+F+RP+I)
+oldwest_jeanssteaks_01 (T4 C+F+RP+I)
+oldwest_picturehouse (T4 C+F+RP+I)
+oldwest_preppo_01 (T4 C+F+RP+I)
+oldwest_spectabcem_01 (T4 C+F+RP+I)
+oldwest_stormi_boarding_house (T4 C+F+RP+I)
+oldwest_workhands_01 (T4 C+F+RP+I)
+
+OVERALL TOTAL = 9
+
+=========================================
+= QUEST TIER 5 CLEAR + FETCH + INFESTED =
+=========================================
+DEFAULT TFP POIS Clear + Fetch + Infested (C+F+I) = 3
+oldwest_A19_skyscraper_02 - CONVERSION (T5 C+F+I)
+oldwest_army_camp_03 - CONVERSION (T5 C+F+I)
+oldwest_rural_church_01 - CONVERSION (T5 C+F+I)
+
+CUSTOM OLD WEST MIGRATION POIS Clear + Fetch + Infested (C+F+I) = 5
+oldwest_loveshack_hotel_01 (T5 C+F+I)
+oldwest_nitrary_01 (T5 C+F+I)
+oldwest_patrol_nation_01 (T5 C+F+I)
+oldwest_splint_eastwood_01 (T4 C+F+I)
+oldwest_store_gun_01 (T5 C+F+I)
+
+OVERALL TOTAL = 8
+
+---------------------------------------------------------------------
+
+============================
+= OVERALL QUEST POI TOTALS =
+============================
+
+The following describes the overall totals. Please note that Infested gives a Quest Tier +1 rating.
+This explains the reason for Quest Tier 6 for Infested connected to Quest Tier 5.
+
+================
+= QUEST TIER 1 =
+================
+QUEST TIER 1 CLEAR + FETCH = 4
+QUEST TIER 1 CLEAR + INFESTED = 5
+QUEST TIER 1 CLEAR + FETCH + INFESTED = 33
+OVERALL TOTAL = 42 Base
+
+================
+= QUEST TIER 2 =
+================
+QUEST TIER 2 CLEAR + FETCH + INFESTED = 2
+QUEST TIER 2 CLEAR + FETCH + RESTORE POWER + INFESTED = 25
+OVERALL TOTAL = 27 Base + Infested expansion from T1
+
+================
+= QUEST TIER 3 =
+================
+QUEST TIER 3 CLEAR + FETCH + RESTORE POWER + INFESTED = 20
+OVERALL TOTAL = 20 Base + Infested expansion from T2
+
+================
+= QUEST TIER 4 =
+================
+QUEST TIER 4 CLEAR + FETCH + RESTORE POWER + INFESTED = 9
+OVERALL TOTAL = 9 Base + Infested expansion from T3
+
+================
+= QUEST TIER 5 =
+================
+QUEST TIER 5 CLEAR + FETCH + INFESTED = 8
+OVERALL TOTAL = 8 Base + Infested expansion from T4
+
+================
+= QUEST TIER 6 =
+================
+OVERALL TOTAL = 8 Infested expansion from T5
+
+---------------------------------------------------------------------------------------------
+OVERALL TOTALS = 106 Base + Expanded Infested Upgrade Variants for V2 Old West Migration Mod.
+(Plus any fetch/clear + restore power separation types as per TFP's algorithm)
+---------------------------------------------------------------------------------------------
+
+------
+TILING
+------
+
+=================================
+= OLD WEST MIGRATION MOD TILING =
+=================================
+
+DEFAULT TFP TILES
+rwg_tile_oldwest_cap (25 x 25 = 5 / 25 x 50 = 2)
+rwg_tile_oldwest_corner (25 x 25 = 5 / 25 x 50 = 2 / 42 x 42 = 1)
+rwg_tile_oldwest_intersection (25 x 25 = 8 / 25 x 50 = 3)
+rwg_tile_oldwest_straight (25 x 25 = 4 / 25 x 50 = 3)
+rwg_tile_oldwest_t (25 x 25 = 7 / 25 x 50 = 2 / 42 x 42 = 1)
+
+OLD WEST MIGRATION CUSTOM TILES
+rwg_tile_oldwest_corner_02 (25 x 25 = 6 / 25 x 50 = 2)
+rwg_tile_oldwest_straight_02 (25 x 25 = 4 / 25 x 50 = 2 / 42 x 42 = 1)
+
+----------------------------------------------------------------------
