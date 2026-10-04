@@ -56,13 +56,11 @@ OVERALL TOTAL = 10
 ==============================
 = QUEST TIER 1 CLEAR + FETCH =
 ==============================
-DEFAULT TFP POIS Clear + Fetch (C+F) = 4
-oldwest_business_07 (Deco) - CONVERSION - (T1 C+F)
-oldwest_business_09 (Deco) - CONVERSION - (T1 C+F)
+DEFAULT TFP POIS Clear + Fetch (C+F) = 2
 remnant_oldwest_07 (Deco) - CONVERSION - (T1 C+F)
 remnant_oldwest_09 (Deco) - CONVERSION - (T1 C+F)
 
-OVERALL TOTAL = 4
+OVERALL TOTAL = 2
 
 =================================
 = QUEST TIER 1 CLEAR + INFESTED =
@@ -79,9 +77,11 @@ OVERALL TOTAL = 5
 =========================================
 = QUEST TIER 1 CLEAR + FETCH + INFESTED =
 =========================================
-DEFAULT TFP POIS Clear + Fetch + Infested (C+F+I) = 29
+DEFAULT TFP POIS Clear + Fetch + Infested (C+F+I) = 31
 oldwest_business_01 (T1 C+F+I)
+oldwest_business_07 (Deco) - CONVERSION - (T1 C+F+I)
 oldwest_business_08 (T1 C+F+I)
+oldwest_business_09 (Deco) - CONVERSION - (T1 C+F+I)
 oldwest_business_10 (T1 C+F+I)
 oldwest_business_11 (T1 C+F+I)
 oldwest_business_13 (T1 C+F+I)
@@ -116,7 +116,7 @@ oldwest_stables_01 (T1 C+F+I)
 oldwest_station_02 (T1 C+F+I)
 oldwest_stables_03 (T1 C+F+I)
 
-OVERALL TOTAL = 33					  
+OVERALL TOTAL = 35					  
 
 =========================================
 = QUEST TIER 2 CLEAR + FETCH + INFESTED =
@@ -241,9 +241,9 @@ This explains the reason for Quest Tier 6 for Infested connected to Quest Tier 5
 ================
 = QUEST TIER 1 =
 ================
-QUEST TIER 1 CLEAR + FETCH = 4
+QUEST TIER 1 CLEAR + FETCH = 2
 QUEST TIER 1 CLEAR + INFESTED = 5
-QUEST TIER 1 CLEAR + FETCH + INFESTED = 33
+QUEST TIER 1 CLEAR + FETCH + INFESTED = 35
 OVERALL TOTAL = 42 Base
 
 ================
